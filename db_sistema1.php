@@ -1,9 +1,9 @@
 <?php
 
-$host = 'db.bzgpdtclcnzwvwpzaoxj.supabase.co';
+$host = '';
 $db = 'postgres';
 $user = 'postgres';
-$pass = '714026Ce@';
+$pass = '';
 
 
 
